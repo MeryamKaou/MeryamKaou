@@ -1,34 +1,28 @@
-# Digital Garden
+# 💫 About Me:
+👋 Hi, I'm Meryam Kaou !
+👩🏻‍💻  Software Engineer sharing about my journey and learnings in tech<br><br>
 
-This is my first ever digital garden aka dev blog! Check it out here 👉 https://magdelinehuang.com/
 
-I've been working as a Software Engineer for ~7 months now and I've learnt so much, so I figured it was about time I started a blog to document all my learnings!
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MeryamKaou&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MeryamKaou&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MeryamKaou&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Except rather than a blog, I'd like to think of this as my [digital garden](https://maggieappleton.com/garden-history) where I [#learninpublic](https://www.swyx.io/learn-in-public/) 📝
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MeryamKaou&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-I plan to populate my garden with plants on:
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- The stack I'm using: JavaScript, TypeScript, React, styled-components, GraphQL
-- Misc stuff eg how to use DevTools, the DOM, writing tests, my fav tech people
-- Projects I build
-- My journey as a Software Engineer
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MeryamKaou&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-Note that there is no set planting schedule, and the plants may be re-tended to.
-
-I hope you enjoy visiting my garden 🌷
-
-And I look forward to being invited to yours one day 😛
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=MeryamKaou&icon=2&color=5)](https://visitcount.itsvg.in)
 
-**Notes**
-
-- [About digital gardens](https://www.technologyreview.com/2020/09/03/1007716/digital-gardens-let-you-cultivate-your-own-little-bit-of-the-internet/)
-- [How to set up your own digital garden](https://nesslabs.com/digital-garden-set-up#:~:text=A%20digital%20garden%20is%20an,to%20be%20cultivated%20in%20public.)
-- [Maggie Appleton\'s digital garden](https://maggieappleton.com/garden)
-- [Tom Critchlow\'s digital garden](https://tomcritchlow.com/wiki/)
-- [Joel Hook\'s digital garden](https://joelhooks.com/digital-garden)
-
-**Colophon**
-- Hugo
-- [PaperMod theme](https://github.com/adityatelange/hugo-PaperMod)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
