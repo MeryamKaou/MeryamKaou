@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Meryam Kaou !
+#  👋 Hi, I'm Meryam Kaou !
 👩🏻‍💻  Software Engineer sharing about my journey and learnings in tech<br><br>
 
 
